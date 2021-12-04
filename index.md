@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## chào mừng đã đến với Anime LLC
 
-You can use the [editor on GitHub](https://github.com/hpm900/anime.vn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Web đang được cải tiến nên có ít ảnh các bạn hãy qua[Fanpage](https://facebook.com/abbv10xyz) để nhận được nhiều ảnh anime hơn nha.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
